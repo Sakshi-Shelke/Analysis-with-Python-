@@ -6,25 +6,24 @@ Features:
 - Data Cleaning: Handle missing values, duplicates, and outliers to ensure data quality.
 - Exploratory Data Analysis (EDA): Uncover trends, correlations, and key performance metrics.
 - Data Visualization: Generate insightful visualizations like bar charts, heatmaps, and scatter plots.
+
 Technologies Used: 
 Python
 - NumPy: Efficient numerical computations.
 - Pandas: Data manipulation and analysis.
 - Matplotlib: Basic plotting and visualizations.
 - Seaborn: Advanced and aesthetically pleasing data visualizations.
+
 Example Workflow
 - Load Data:
 Load a dataset (e.g., sales.csv) into a Pandas DataFrame.
-
 - Clean Data:
 Remove null values and duplicates.
 Correct inconsistencies in categorical data.
 Perform EDA:
-
 - Analyze:
 Analyze sales trends, product performance, and customer behavior.
 Identify patterns and correlations in data.
-
 - Visualize Results:
 Generate bar plots for category-wise sales.
 Create heatmaps for correlation analysis.
